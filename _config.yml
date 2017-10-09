@@ -1,0 +1,11 @@
+title: Mental Health and Wellness
+baseurl: "/pds/" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - node_modules
