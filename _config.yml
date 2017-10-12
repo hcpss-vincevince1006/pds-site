@@ -1,5 +1,5 @@
 title: Mental Health and Wellness
-baseurl: "/pds/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
